@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 16 09:52:46 IST 2019
+hibernate-jpa-2.1-api-1.0.2.Final-sources.jar>central=
+hibernate-jpa-2.1-api-1.0.2.Final.jar>central=
+hibernate-jpa-2.1-api-1.0.2.Final.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 27 08:52:07 IST 2019
+jersey-container-servlet-core-2.26.jar>central=
+jersey-container-servlet-core-2.26-sources.jar>central=
+jersey-container-servlet-core-2.26.pom>central=

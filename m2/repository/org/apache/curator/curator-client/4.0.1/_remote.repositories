@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 27 08:55:06 IST 2019
+curator-client-4.0.1-sources.jar>central=
+curator-client-4.0.1.jar>central=
+curator-client-4.0.1.pom>central=
